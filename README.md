@@ -1,4 +1,3 @@
-```markdown
 # Sentiment Analysis and Visualization Script
 
 An interactive Python script that performs sentiment analysis on customer reviews using the TextBlob library and visualizes the sentiment distribution. The script reads customer reviews from a CSV file, extracts sentiments, and generates a bar plot for visualization. A comprehensive README provides instructions to set up and run the script.
